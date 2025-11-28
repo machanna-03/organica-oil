@@ -11,6 +11,9 @@
 # production
 /build
 
+#backup
+/organicaoils.zip
+
 # misc
 .DS_Store
 .env.local
